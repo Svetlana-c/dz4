@@ -1,0 +1,15 @@
+/Users/svetlana/dz4/dz4.25/bin/Debug/net6.0/dz4.25
+/Users/svetlana/dz4/dz4.25/bin/Debug/net6.0/dz4.25.deps.json
+/Users/svetlana/dz4/dz4.25/bin/Debug/net6.0/dz4.25.runtimeconfig.json
+/Users/svetlana/dz4/dz4.25/bin/Debug/net6.0/dz4.25.dll
+/Users/svetlana/dz4/dz4.25/bin/Debug/net6.0/dz4.25.pdb
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.csproj.AssemblyReference.cache
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.AssemblyInfoInputs.cache
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.AssemblyInfo.cs
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.csproj.CoreCompileInputs.cache
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.dll
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/refint/dz4.25.dll
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.pdb
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/dz4.25.genruntimeconfig.cache
+/Users/svetlana/dz4/dz4.25/obj/Debug/net6.0/ref/dz4.25.dll
